@@ -1,1 +1,1 @@
-Calculator (Html,Css,Javascript)
+Calculator Website (Html,Css,Javascript)
